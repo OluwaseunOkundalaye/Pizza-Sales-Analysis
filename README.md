@@ -3,19 +3,19 @@ An Excel project analyzing a year's worth of sales from a fictitious pizza sales
 
 ## Table of Contents
 
-Project Overview
+[Project Overview](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#project-overview)
 
-Project Scope
+[Project Scope](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#project-scope)
 
-Project Objectives
+[Project Objectives](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#project-objectives)
 
-Expected Outcome
+[Expected Outcome](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#expected-outcome)
 
-Document Purpose
+[Document Purpose](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#document-purpose)
 
-Use Case
+[Use Case](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#use-case)
 
-Data Source
+[Data Source](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#data-source)
 
 Data Cleaning and Processing
 
@@ -93,3 +93,32 @@ Stakeholders Benefiting from the Analysis
   
 This comprehensive analysis equips each stakeholder with the insights needed to drive business growth, improve operational efficiency, and enhance customer satisfaction.
 
+## Data Source
+
+The dataset for this project is sourced from [Maven Analytics](https://app.mavenanalytics.io/datasets?dataStructure=Multiple+tables&accessType=open) website, designed specifically for practice purposes. It is presented in an Excel file with four tables (Order Details, Orders, Pizza Types, and Pizzas) comprising 48,620, 21,350, 32, and 96 rows respectively, and 4, 3, 4, and 4 columns respectively. The dataset includes key attributes essential for a comprehensive analysis, such as:
+
+-	Order_id: Unique identifier for each order.
+  
+-	Date: Date the order was placed.
+  
+-	Time: Time the order was placed.
+  
+-	Order_details_id: Unique identifier for each pizza within each order.
+  
+-	Pizza_id: Foreign key linking to pizza details (size and price).
+  
+-	Quantity: Number of each type and size of pizza ordered.
+  
+-	Pizza_type_id: Foreign key linking to pizza type.
+  
+-	Size: Size of the pizza.
+  
+-	Price: Price of the pizza in USD.
+  
+-	Name: Name of the pizza as shown in the menu.
+  
+-	Category: Category of the pizza in the menu.
+  
+-	Ingredients: Ingredients used in the pizza as shown in the menu.
+  
+Each of these variables contributes crucial insights, collectively painting a vivid portrayal of Pizza Sales Place.
