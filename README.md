@@ -21,11 +21,11 @@ An Excel project analyzing a year's worth of sales from a fictitious pizza sales
 
 [Data Analysis](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#data-analysis-and-insight)
 
-Data Visualization
+[Data Visualization](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#data-visualization)
 
-Recommendation
+[Recommendation](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#recommendation)
 
-Conclusion
+[Conclusion](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/edit/main/README.md#conclusion)
 
 ## Project Overview
 
