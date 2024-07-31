@@ -291,4 +291,51 @@ From the analysis above, it clearly shows that each category contributed well to
 
 ## Data Visualization
 
+![](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/blob/main/Dashboard.png)
+
+## Recommendation
+
+- Based on the provided analysis, here are several recommendations for Pizza Sales Place:
+
+- Increase staffing on Fridays, Saturdays, and Thursdays to handle the higher customer volume efficiently.
+
+- Ensure adequate staff coverage during peak hours, especially at lunchtime (12 PM - 1 PM) and evening hours (5 PM - 7 PM) to maintain service quality and customer satisfaction.
+
+- Stock up on popular pizzas like Big_meat_S, Thai_Ckn_L, and Five_Cheese_L to meet the high demand and avoid running out of these items.
+
+- Monitor inventory levels closely during peak months such as July, May, and March to ensure sufficient supply.
+
+- Introduce special offers or discounts on Mondays and Sundays to boost customer visits and counteract the lower customer counts on these days.
+
+- Run promotions for less popular pizzas like The_Greek_XXL and Mexicana_S to increase their sales and clear out inventory.
+
+- Highlight and promote top-performing pizzas such as Thai_Ckn_L and Big_meat_S in marketing campaigns to attract more customers.
+
+- Consider reviewing and potentially removing consistently low-performing pizzas like The_Greek_XXL from the menu to streamline operations and focus on best-sellers.
+
+- Focus on maintaining high service quality during peak times to ensure customer satisfaction and loyalty.
+
+- Implement feedback mechanisms to gather customer input on menu preferences and service quality, using this data to make informed decisions.
+
+- Use the identified revenue patterns to forecast sales and budget effectively. Plan for higher expenses during peak months and allocate resources accordingly.
+
+- Leverage high-revenue months like July and May to invest in marketing, staff training, and operational improvements.
+
+- Develop seasonal promotions to boost sales during low-revenue months such as September and October. Consider themed pizzas or limited-time offers to attract more customers.
+
+- Align marketing campaigns with peak sales periods and special occasions to maximize impact.
+
+
+## Conclusion
+
+By implementing these recommendations, Pizza Sales Place can enhance operational efficiency, increase revenue, and improve overall customer satisfaction.
+Thank you for reading.
+
+I’m interested in a Data Analyst role in an organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
+
+You can reach me on oluwaseunokundalaye5@gmail.com
+
+THANK YOU
+
+
 
