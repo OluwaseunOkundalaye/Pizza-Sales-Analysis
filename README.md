@@ -167,3 +167,56 @@ As a result, this analysis provides insights addressing the following questions.
 The primary objective of this analysis is to determine the daily customer count at Pizza Sales Place using the order_id as a proxy for individual customer transactions. This information helps in understanding the daily customer flow, identifying peak and slow periods, and optimizing business operations. 
 
 To achieve this, a pivot table was created. The day column was placed in the row section, and order_id was placed in the value section to count the number of orders. The results were visualized using a bar chart.
+
+![](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/blob/main/Number%20of%20Customers%20Per%20Day.png)
+
+From the above analysis
+
+-	Friday has the highest customer count (8106). Popular for social gatherings and end-of-week treats.
+	
+-	Saturday has second highest (7355). Continued high activity due to leisure and social activities.
+	
+-	Thursday with 7323 customers, indicating a steady increase as the weekend approaches.
+	
+-	Tuesday and Wednesday shows approximate consistent mid-week count (6753 and 6794), reflecting stable dining habits.
+	
+-	Monday shows slight dip (6369), likely due to the start of the workweek.
+	
+-	Sunday has the lowest count (5917), possibly due to home-cooked meals or different activities.
+
+**2.	Is there any peak hour for customers order?**
+
+The primary aim of this question is to identify the specific times of the day when Pizza Sales Place experiences the highest volume of customer orders. Understanding peak hours is crucial.
+
+To achieve this, a pivot table was created. The time column was placed in the row section which was set to hours, and order_id was placed in the value section to count the number of orders. The results were visualized using a bar chart.
+
+![](https://github.com/OluwaseunOkundalaye/Pizza-Sales-Analysis/blob/main/Total%20Customer%20Per%20Hour.png)
+
+From the analysis above
+
+- 12 PM: The highest customer count occurs at 12 PM with 6.5k customers, indicating lunchtime as the busiest period.
+ 
+- 1 PM: Following closely, 1 PM has 6.2k customers, reinforcing the lunchtime rush.
+ 
+- 6 PM: The evening rush starts at 6 PM with 5.4k customers.
+ 
+- 5 PM: Just before the peak evening rush, 5 PM sees 5.1k customers.
+ 
+The busiest times for Pizza Sales Place are during the lunch (12 PM - 1 PM) and evening (5 PM - 7 PM) periods. The business experiences moderate customer flow during the early afternoon and later evening hours. Very little to no activity is observed late at night and early in the morning. 
+
+**3. How many pizzas are typically in an order?**
+
+The aim of this question is to understand the average quantity of pizzas customers order per transaction. This metric can provide several valuable insights, including order size, stock levels, efficiency, sales projections, and order customization.
+
+To determine the average number of pizzas per order, two pivot tables were created, the quantity column was added to the "Values" section and set to "Sum" to calculate the total number of pizzas ordered. The quantity column was added to a second pivot table and set to "Count" to determine the total number of orders. Using these pivot tables, the sum of quantities was found to be 49,574, and the count of quantities was 48,620. The average number of pizzas per order is calculated as follows:
+
+```Average Quantity = (Sum of Quantities)/(Count of Quantities)=  49,574/48,620 = 1```
+
+This calculation shows that the average number of pizzas per order is approximately 1.
+
+**4. Do we have any bestsellers? Are there any pizzas we should take of the menu, or any promotions we could leverage?**
+
+This question aims to understand the popularity and financial impact of different pizza. By identifying top-selling products, least-selling products, and those driving the most revenue, the business can make informed decisions about inventory management, marketing strategies, and potentially introduce promotions or adjustments to product offerings.
+
+The determination of the top and least selling products was based on analyzing sales data to identify items that customers frequently purchase in higher quantities or sold less frequently. In Excel Power Pivot, a measure was created to calculate the total quantity sold for each product. Subsequently, a bar chart was employed as a visualization tool to display the results. To enhance clarity and focus on significant insights, the filter pane was employed to display only the top 5 best-selling products and the least 5 selling products, determined by quantity sold.
+
