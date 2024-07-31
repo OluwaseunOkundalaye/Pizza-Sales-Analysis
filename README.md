@@ -194,13 +194,13 @@ To achieve this, a pivot table was created. The time column was placed in the ro
 
 From the analysis above
 
-- 12 PM: The highest customer count occurs at 12 PM with 6.5k customers, indicating lunchtime as the busiest period.
+- 12 PM: The highest customer count occurs at 12 PM with 6,543 customers, indicating lunchtime as the busiest period.
  
-- 1 PM: Following closely, 1 PM has 6.2k customers, reinforcing the lunchtime rush.
+- 1 PM: Following closely, 1 PM has 6,203 customers, reinforcing the lunchtime rush.
  
-- 6 PM: The evening rush starts at 6 PM with 5.4k customers.
+- 6 PM: The evening rush starts at 6 PM with 5,359 customers.
  
-- 5 PM: Just before the peak evening rush, 5 PM sees 5.1k customers.
+- 5 PM: Just before the peak evening rush, 5 PM sees 5,143 customers.
  
 The busiest times for Pizza Sales Place are during the lunch (12 PM - 1 PM) and evening (5 PM - 7 PM) periods. The business experiences moderate customer flow during the early afternoon and later evening hours. Very little to no activity is observed late at night and early in the morning. 
 
