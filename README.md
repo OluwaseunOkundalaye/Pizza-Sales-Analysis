@@ -270,7 +270,7 @@ From the analysis above;
 
 From the analysis above;
 
-- The first quarter has the highest revenue followed by the third quarter at $205,362 and $204,885 respectively with the fourth quarter having the least revenue at $203,368.
+- The second quarter has the highest revenue followed by the first quarter at $208,370 and $205,350 respectively with the fourth quarter having the least revenue at $119,124.
 
 **6. How did the pizzas category contribute to the total revenue for the year**
 
